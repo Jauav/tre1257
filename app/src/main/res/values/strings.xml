@@ -2,9 +2,9 @@
     <string name="app_name">Conversations Quickstart</string>
     <string name="error_retrieving_access_token">Error retrieving access token from the server.</string>
     <string name="send">Send</string>
-    <string name="chat_token_url">https://conversationandroid-2784.twil.io/welcome/chat-token</string>
+    <string name="chat_token_url">https://conversationandroid-2784.twil.io/welcome/</string>
     <string name="write_message">Write Message</string>
-    <string name="test_access_token">TEST_ACCESS_TOKEN</string>
+    <string name="test_access_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJqdGkiOiJTSzVmMTQ3ZTUyYzI5ZjRkOTNiOTZhODBkMjdjZWVlOGZkLTE2MjI5MDEzNjciLCJncmFudHMiOnsiY2hhdCI6eyJzZXJ2aWNlX3NpZCI6IklTMzgyMzFiNTcxYjJhNGFkMmE5ZjM3N2NkNDhiZmYwOGYifX0sImlhdCI6MTYyMjkwMTM2NywiZXhwIjoxNjIyOTA0OTY3LCJpc3MiOiJTSzVmMTQ3ZTUyYzI5ZjRkOTNiOTZhODBkMjdjZWVlOGZkIiwic3ViIjoiQUM2NzA2MjcxMmIzYWZhNWQ3YWZlZGMxYTMyODlhNDMxNCJ9.9ci4DLZLVnq_7X3KGMcVKfy0O_z7n61t6QRqHrYFq84</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="phone_hint">Phone</string>
